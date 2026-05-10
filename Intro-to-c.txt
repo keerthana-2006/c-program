@@ -1,0 +1,27 @@
+1. Introduction to C:
+---------------------
+Explanation: C is a general-purpose, procedural programming language developed by Dennis Ritchie in 1972.
+It's efficient, portable, and forms the basis for many modern languages.
+
+Key Features:
+--------------
+-Low-level memory access
+-Rich set of operators
+-Modular programming with functions
+-Portability across platforms
+
+2. Basic Structure of a C Program:
+----------------------------------
+Explanation: Every C program has a specific structure including preprocessor directives, 
+global declarations, main function, and user-defined functions.
+
+Syntax:
+-------
+#include <stdio.h>  // Preprocessor directive
+// Global declarations
+int globalVar = 10;
+// Main function - program entry point
+int main() {
+    // Body of main function
+    return 0;  // Return statement
+}
