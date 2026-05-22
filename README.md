@@ -1,1 +1,2 @@
-This repository consists of c programs
+This is a complete mini guide to c beginners!
+Happy Learning!
